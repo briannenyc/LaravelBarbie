@@ -6,6 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
     @vite('resources/js/app.tsx')
     @inertiaHead
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
 </head>
 
 <body>
