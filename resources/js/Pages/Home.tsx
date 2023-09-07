@@ -30,7 +30,7 @@ export default function Home() {
 						fontFamily: 'Roboto', // Set the font-family to the Google Font
                     }}
                 >
-                    Hi Barbie
+                    Hi, Laravel Barbie!
                 </div>
             </div>
 
